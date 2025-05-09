@@ -10,9 +10,10 @@
 ### 🧩 My Productivity Setup
 
 <p align="center">
-  <img src="./mobile.gif" alt="My Mobile Productivity Setup" width="250"/>
+  <a href="https://drive.google.com/uc?export=download&id=18rUx68tnBgs5iy4coh-SfGS1VWxQ7b84" target="_blank">
+    <img src="./mobile.jpg" alt="Watch My Setup Video" width="250"/>
+  </a>
 </p>
-
 ---
 
 ### 🛠️ Tech Stack

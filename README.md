@@ -9,13 +9,6 @@
 
 ### 🧩 My Productivity Setup
 
-<p align="center">
-  <a href="https://drive.google.com/uc?export=download&id=18rUx68tnBgs5iy4coh-SfGS1VWxQ7b84" target="_blank">
-    <img src="./mobile.jpg" alt="Watch My Setup Video" width="250"/>
-  </a>
-</p>
----
-
 ### 🛠️ Tech Stack
 
 <p align="center">

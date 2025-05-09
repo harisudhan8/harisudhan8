@@ -23,7 +23,7 @@
       <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeDRlNGljcno1YjY1dDc1ZWFudmlscnM0anR3OWc2bXg2bnJsNWFjZSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/a5viI92PAF89q/giphy.gif" width="200"/>
     </td>
     <td align="center">
-      <img src="mobile.jpg" alt="Mobile Setup" width="700"/>
+      <img src="mobile.jpg" alt="Mobile Setup" width="400"/>
     </td>
   </tr>
 </table>

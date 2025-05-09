@@ -79,3 +79,6 @@
     <img alt="GitHub" src="https://img.shields.io/badge/GitHub-black?style=flat-square&logo=github" />
   </a>
 </p>
+
+<p align="center"><em>“You can’t do epic stuff with basic energy. So grab a coffee, sit up straight, and pretend you know what you’re doing.” ☕💻</em></p>
+

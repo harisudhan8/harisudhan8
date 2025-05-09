@@ -10,10 +10,12 @@
 ### 🧩 My Productivity Setup
 
 <p align="center">
-  <img src="./mobile.jpg" alt="My Mobile Organization" width="250" />
-  <img src="https://media.giphy.com/media/9J7boi3SYN6jG/giphy.gif" alt="Saitama" width="100" style="margin-left: 10px;"/>
-  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNWkwajJhdDlxYjZlMDRoeHpkaWF0enZmd28wYnpieGdpb3FhNTg4NiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/a5viI92PAF89q/giphy.gif" alt="Batman" width="100" style="margin-left: 10px;"/>
-  <img src="https://media.giphy.com/media/xT0GqBCrghkcFhK9wA/giphy.gif" alt="Superman" width="100" style="margin-left: 10px;"/>
+  <img src="mobile.jpg" alt="My Mobile Organization" width="200"/> 
+</p>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeHM4ZWE4YXM1aWEwbWpyM2h5eWw0czNlOXg3NGZ1Z3Nna3g3c2lxcyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/VXJWhaO7afRe/giphy.gif" width="150"/>
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOGVrMDFoZXQwZXB3dWZkYjlnZmJqa3Zqaml1dmhuNXllcTJrYXA3OCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/TKk37hADNFG5iVxE4Y/giphy.gif" width="150"/>
 </p>
 
 ---

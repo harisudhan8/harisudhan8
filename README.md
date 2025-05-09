@@ -13,9 +13,8 @@
   <img src="mobile.jpg" alt="My Mobile Organization" width="200"/> 
 </p>
 
-<p align="center">
+<p align="left">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeHM4ZWE4YXM1aWEwbWpyM2h5eWw0czNlOXg3NGZ1Z3Nna3g3c2lxcyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/VXJWhaO7afRe/giphy.gif" width="150"/>
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOGVrMDFoZXQwZXB3dWZkYjlnZmJqa3Zqaml1dmhuNXllcTJrYXA3OCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/TKk37hADNFG5iVxE4Y/giphy.gif" width="150"/>
 </p>
 
 ---

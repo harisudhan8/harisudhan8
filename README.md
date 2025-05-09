@@ -10,7 +10,7 @@
 ### 🧩 My Productivity Setup
 
 <p align="center">
-  <img src="./mobile.jpg" alt="My Mobile Organization" width="250"/>
+  <img src="./mobile.gif" alt="My Mobile Productivity Setup" width="250"/>
 </p>
 
 ---

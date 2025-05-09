@@ -7,6 +7,14 @@
 
 ---
 
+### 🧩 My Productivity Setup
+
+<p align="center">
+  <img src="./mobile.jpg" alt="My Mobile Organization" width="250"/>
+</p>
+
+---
+
 ### 🛠️ Tech Stack
 
 <p align="center">

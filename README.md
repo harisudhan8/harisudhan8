@@ -21,9 +21,7 @@
       <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJ4N2Y1bDN4czBtOWZva3J5ZXN3c2xrd2JmanFja3JldzA4a3pqNyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/pUp9Nb1czvHMY/giphy.gif" width="200"/><br>
       <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExa3FtczB2dXdtZW1nbzR1Y3RtNjVsOHNmNzRkb3FraGRsOHZoOG1heSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/q217GUnfKAmJlFcjBX/giphy.gif" width="200"/><br>
     </td>
-    <td align="center">
-      <img src="mobile.jpg" alt="Mobile Setup" width="400"/>
-    </td>
+
   </tr>
 </table>
 

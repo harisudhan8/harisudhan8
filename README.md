@@ -5,10 +5,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00FFFF&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;C%2B%2B+%7C+Java+%7C+SQL+%7C+DSA;React+%7C+MongoDB+%7C+Express+%7C+TailwindCSS;Problem+Solver+%7C+Lifelong+Learner" />
 </p>
 
----
-
-### 🧩 My Productivity Setup
-
 <table align="center">
   <tr>
     <td align="center">
@@ -24,11 +20,6 @@
 
   </tr>
 </table>
-
-
-
-
----
 
 ### 🛠️ Tech Stack
 
